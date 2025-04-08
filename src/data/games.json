@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "超級瑪利歐兄弟",
+    "cover": "/assets/mario.png",
+    "description": "經典平台跳躍遊戲，拯救碧姬公主！",
+    "platform": "FC 紅白機",
+    "tags": ["平台", "冒險"]
+  },
+  {
+    "id": 2,
+    "title": "魂斗羅",
+    "cover": "/assets/contra.png",
+    "description": "硬派橫向射擊，兩人合作超熱血！",
+    "platform": "FC 紅白機",
+    "tags": ["射擊", "合作"]
+  }
+]
