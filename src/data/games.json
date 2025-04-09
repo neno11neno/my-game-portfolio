@@ -1,18 +1,82 @@
 [
   {
     "id": 1,
-    "title": "超級瑪利歐兄弟",
-    "cover": "/assets/mario.png",
-    "description": "經典平台跳躍遊戲，拯救碧姬公主！",
-    "platform": "FC 紅白機",
-    "tags": ["平台", "冒險"]
+    "title": "Super Mario.",
+    "cover": "/assets/img/mario.png",
+    "description": "Classic platformer adventure to rescue Princess Peach!",
+    "platform": "FC Famicom",
+    "tags": ["Platformer", "Adventure"]
   },
   {
     "id": 2,
-    "title": "魂斗羅",
-    "cover": "/assets/contra.png",
-    "description": "硬派橫向射擊，兩人合作超熱血！",
-    "platform": "FC 紅白機",
-    "tags": ["射擊", "合作"]
+    "title": "Contra",
+    "cover": "/assets/img/contra.png",
+    "description": "Hardcore side-scrolling shooter with co-op action!",
+    "platform": "FC Famicom",
+    "tags": ["Shooter", "Co-op"]
+  },
+  {
+    "id": 3,
+    "title": "Mega Man 2",
+    "cover": "/assets/img/rockman.jpg",
+    "description": "Battle 8 robot masters in this legendary action platformer!",
+    "platform": "FC Famicom",
+    "tags": ["Action", "Platformer"]
+  },
+  {
+    "id": 4,
+    "title": "Bomberman",
+    "cover": "/assets/img/bomberman.jpg",
+    "description": "Place bombs, defeat enemies, and become the bombing champion!",
+    "platform": "FC Famicom",
+    "tags": ["Puzzle", "Versus"]
+  },
+  {
+    "id": 5,
+    "title": "Battle City",
+    "cover": "/assets/img/battletank.jpg",
+    "description": "Defend your base and destroy enemy tanks in this nostalgic classic!",
+    "platform": "FC Famicom",
+    "tags": ["Shooter", "Strategy"]
+  },
+  {
+    "id": 6,
+    "title": "Ninja Gaiden",
+    "cover": "/assets/img/ninja.jpg",
+    "description": "Fast-paced ninja action! Slash through enemies with ultimate precision!",
+    "platform": "FC Famicom",
+    "tags": ["Action", "Adventure"]
+  },
+  {
+    "id": 7,
+    "title": "Double Dragon",
+    "cover": "/assets/img/doubledragon.jpg",
+    "description": "Classic beat 'em up with 2-player brawling fun!",
+    "platform": "FC Famicom",
+    "tags": ["Fighting", "Co-op"]
+  },
+  {
+    "id": 8,
+    "title": "Adventure Island",
+    "cover": "/assets/img/adventureisland.jpg",
+    "description": "Fruit, dinosaurs, axes — a wild island journey begins!",
+    "platform": "FC Famicom",
+    "tags": ["Platformer", "Adventure"]
+  },
+  {
+    "id": 9,
+    "title": "Bubble Bobble",
+    "cover": "/assets/img/bubblebobble.jpg",
+    "description": "Trap enemies in bubbles and collect fruit in this classic puzzle co-op game!",
+    "platform": "FC Famicom",
+    "tags": ["Co-op", "Puzzle"]
+  },
+  {
+    "id": 10,
+    "title": "Tetris",
+    "cover": "/assets/img/tetris.jpg",
+    "description": "Stack falling blocks and clear lines in this addictive puzzle classic!",
+    "platform": "FC Famicom",
+    "tags": ["Puzzle"]
   }
 ]
